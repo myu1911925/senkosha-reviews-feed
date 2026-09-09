@@ -305,6 +305,12 @@
       <products>
         <product>
           <product_ids>
+            <mpns>
+              <mpn>2108</mpn>
+            </mpns>
+            <skus>
+              <sku>2108</sku>
+            </skus>
             <brands>
               <brand>閃光舎 SENKOSHA</brand>
             </brands>
