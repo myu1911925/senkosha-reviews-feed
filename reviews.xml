@@ -9,6 +9,37 @@
   </publisher>
   <reviews>
     <review>
+      <review_id>judgeme-1361393538</review_id>
+      <reviewer>
+        <name>トシブー</name>
+        <reviewer_id>2110979025</reviewer_id>
+      </reviewer>
+      <review_timestamp>2026-10-02T11:55:35+00:00</review_timestamp>
+      <title>肌にくっつく感じ嫌かも</title>
+      <content>肌にくっつく感じが寒い時は気にならないけど、暑い室内ではちょっと嫌</content>
+      <review_url type="group">https://kimonosenkosha.com/products/haneri-grange-silver</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_ids>
+            <mpns>
+              <mpn>2387</mpn>
+            </mpns>
+            <skus>
+              <sku>2387</sku>
+            </skus>
+            <brands>
+              <brand>閃光舎 SENKOSHA</brand>
+            </brands>
+          </product_ids>
+          <product_name>半衿 グランジドット シルバー メタリック クール ストレッチ</product_name>
+          <product_url>https://kimonosenkosha.com/products/haneri-grange-silver</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
       <review_id>judgeme-1360829368</review_id>
       <reviewer>
         <name>まりぽん</name>
